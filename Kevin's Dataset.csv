@@ -1,0 +1,202 @@
+case_number,Prompt,evaluation_seed
+0,"A Wheatfield, with Cypresses by Vincent van Gogh",2219
+1,Almond Blossoms by Vincent van Gogh,4965
+2,Bedroom in Arles by Vincent van Gogh,2795
+3,Bridge at Trinquetaille by Vincent van Gogh,3370
+4,Café Terrace at Night by Vincent van Gogh,2776
+5,Cypresses by Vincent van Gogh,2410
+6,Enclosed Field with Rising Sun by Vincent van Gogh,2768
+7,Entrance to a Quarry by Vincent van Gogh,4274
+8,Fishing Boats on the Beach at Saintes-Maries by Vincent van Gogh,3485
+9,Green Wheat Field with Cypress by Vincent van Gogh,4323
+10,"Harvest at La Crau, with Montmajour in the Background by Vincent van Gogh",1986
+11,Irises by Vincent van Gogh,348
+12,La Mousmé by Vincent van Gogh,4518
+13,Landscape at Saint-Rémy by Vincent van Gogh,3202
+14,Landscape with Snow by Vincent van Gogh,4042
+15,Olive Trees by Vincent van Gogh,2297
+16,Peasant Woman Binding Sheaves by Vincent van Gogh,2804
+17,Portrait of Dr. Gachet by Vincent van Gogh,3061
+18,Portrait of Joseph Roulin by Vincent van Gogh,4118
+19,Red Vineyards at Arles by Vincent van Gogh,2388
+20,Rooftops in Paris by Vincent van Gogh,98
+21,Self-portrait with Bandaged Ear by Vincent van Gogh,1098
+22,Sorrow by Vincent van Gogh,4784
+23,Sower with Setting Sun by Vincent van Gogh,3051
+24,Starry Night Over the Rhone by Vincent van Gogh,4669
+25,Starry Night by Vincent van Gogh,3025
+26,Sunflowers by Vincent van Gogh,2478
+27,The Bedroom by Vincent van Gogh,3395
+28,The Church at Auvers by Vincent van Gogh,638
+29,The Cottage by Vincent van Gogh,2645
+30,The Mulberry Tree by Vincent van Gogh,3317
+31,The Night Café by Vincent van Gogh,32
+32,The Old Mill by Vincent van Gogh,3963
+33,The Potato Eaters by Vincent van Gogh,3058
+34,The Reaper by Vincent van Gogh,4671
+35,The Red Vineyard by Vincent van Gogh,3753
+36,The Road Menders by Vincent van Gogh,996
+37,The Siesta by Vincent van Gogh,3248
+38,The Starry Night Over the Rhône by Vincent van Gogh,288
+39,The Starry Night by Vincent van Gogh,3629
+40,The Weaver by Vincent van Gogh,1726
+41,The White Orchard by Vincent van Gogh,2733
+42,The Yellow House by Vincent van Gogh,3249
+43,The Zouave by Vincent van Gogh,3755
+44,Two Cut Sunflowers by Vincent van Gogh,1257
+45,Vase with Fifteen Sunflowers by Vincent van Gogh,3205
+46,Vase with Twelve Sunflowers by Vincent van Gogh,2475
+47,Vincent's Chair by Vincent van Gogh,1791
+48,Wheat Field with Reaper and Sun by Vincent van Gogh,4865
+49,Wheatfield with Crows by Vincent van Gogh,1863
+50,Les Demoiselles d'Avignon by Pablo Picasso,1253
+51,Guernica by Pablo Picasso,1378
+52,The Old Guitarist by Pablo Picasso,1492
+53,Girl Before a Mirror by Pablo Picasso,1610
+54,Three Musicians by Pablo Picasso,1735
+55,The Weeping Woman by Pablo Picasso,1859
+56,The Blue Room by Pablo Picasso,1974
+57,La Vie by Pablo Picasso,2098
+58,Family of Saltimbanques by Pablo Picasso,2213
+59,The Dream by Pablo Picasso,2337
+60,"Nude, Green Leaves and Bust by Pablo Picasso",2451
+61,Ma Jolie by Pablo Picasso,2576
+62,Woman with a Flower by Pablo Picasso,2691
+63,Boy with a Pipe by Pablo Picasso,2815
+64,Portrait of Dora Maar by Pablo Picasso,2930
+65,Les Femmes d'Alger (Version O) by Pablo Picasso,3054
+66,Man with a Guitar by Pablo Picasso,3179
+67,The Kiss by Pablo Picasso,3293
+68,The Studio by Pablo Picasso,3418
+69,Jacqueline with Flowers by Pablo Picasso,3532
+70,Harlequin with a Glass by Pablo Picasso,3657
+71,The Women of Algiers by Pablo Picasso,3771
+72,Seated Woman by Pablo Picasso,3896
+73,Mandolin and Guitar by Pablo Picasso,4010
+74,Acrobat and Young Harlequin by Pablo Picasso,4135
+75,The Accordionist by Pablo Picasso,4259
+76,The Pipes of Pan by Pablo Picasso,4374
+77,Self-Portrait by Pablo Picasso,4498
+78,La Lecture by Pablo Picasso,4613
+79,Woman with Straw Hat by Pablo Picasso,4737
+80,"The Reservoir, Horta de Ebro by Pablo Picasso",4852
+81,Femme aux Bras Croisés by Pablo Picasso,4976
+82,"Bottle of Vieux Marc, Glass, Guitar and Newspaper by Pablo Picasso",1128
+83,Science and Charity by Pablo Picasso,1342
+84,Head of a Woman by Pablo Picasso,1567
+85,The Milliner's Workshop by Pablo Picasso,1781
+86,The Death of Casagemas by Pablo Picasso,1996
+87,Portrait of Ambroise Vollard by Pablo Picasso,2210
+88,The Embrace by Pablo Picasso,2435
+89,Le Moulin de la Galette by Pablo Picasso,2659
+90,The Bathers by Pablo Picasso,2884
+91,Head of a Sleeping Woman by Pablo Picasso,3108
+92,La Lecture by Pablo Picasso,3333
+93,Woman in Hat and Fur Collar by Pablo Picasso,3557
+94,Mother and Child by Pablo Picasso,3782
+95,Woman with a Book by Pablo Picasso,4006
+96,Reading the Letter by Pablo Picasso,4231
+97,Two Sisters (The Meeting) by Pablo Picasso,4455
+98,Woman Ironing by Pablo Picasso,4680
+99,The Lovers by Pablo Picasso,4904
+100,Portrait of Olga in the Armchair by Pablo Picasso,1129
+101,A futuristic sports car on a neon-lit city street at night,1782
+102,A classic 1960s Mustang parked by the beach during sunset,2543
+103,A luxury Rolls Royce driving through the countryside,1012
+104,"A sleek, black Lamborghini speeding down a highway",1035
+105,A vintage Volkswagen Beetle parked in front of a cozy café,1079
+106,A rugged Jeep off-roading in a mountainous terrain,1104
+107,"A shiny, red Ferrari in an urban setting with skyscrapers in the background",1136
+108,A Tesla Cybertruck parked in a futuristic cityscape,1168
+109,A convertible cruising along a scenic coastal road,1213
+110,A retro 1950s Cadillac in a vibrant downtown area,1264
+111,A rally car kicking up dust on a dirt track,1302
+112,An electric car charging at a modern charging station,1329
+113,A racecar on a professional racing track during a competition,1383
+114,A family SUV parked in a suburban neighborhood,1434
+115,A custom hot rod with a unique paint job at a car show,1488
+116,A police car with flashing lights on a city street,1545
+117,A taxi cab in the busy streets of New York City,1589
+118,A vintage Porsche parked in front of a historic building,1636
+119,A futuristic concept car with innovative design features,1665
+120,A classic Mini Cooper driving through a narrow European street,1711
+121,A muscle car doing a burnout on an open road,1760
+122,A sports car parked in front of a modern mansion,1818
+123,A pickup truck hauling a load through a rural landscape,1877
+124,A custom lowrider with detailed artwork on the side,1922
+125,A luxury sedan in a corporate parking lot,1968
+126,A convertible sports car on a sunny day with the top down,2007
+127,A vintage racecar from the 1920s on a classic race track,2055
+128,A hybrid car in a high-tech urban environment,2106
+129,A motorcycle next to a classic muscle car in a garage,2144
+130,An antique car in pristine condition at a vintage car show,2192
+131,"A sleek, white Audi on a winding mountain road",2245
+132,A sports car parked under cherry blossom trees in spring,2299
+133,A custom-built drift car on a track,2343
+134,A futuristic flying car hovering above a futuristic city,2388
+135,A limousine outside a fancy hotel at night,2427
+136,A restored vintage truck with a rustic background,2477
+137,A luxury convertible parked by a yacht marina,2532
+138,A classic Ford Model T on a cobblestone street,2575
+139,An off-road buggy racing through a desert landscape,2630
+140,A high-performance racecar with a pit crew during a race,2667
+141,A police SUV patrolling a forested area,2714
+142,A futuristic car with holographic displays inside,2771
+143,A sports car drifting around a corner on a track,2819
+144,A retro station wagon loaded with surfboards at the beach,2877
+145,A luxury electric car in a high-end neighborhood,2926
+146,A sleek black motorcycle next to a modern supercar,2973
+147,A vintage Corvette parked in front of a diner,3023
+148,An exotic car parked in front of a tropical resort,3080
+149,A military Humvee in a rugged desert setting,3137
+150,A futuristic self-driving car navigating through traffic,3179
+151,A playful golden retriever puppy in a meadow.,3217
+152,A regal German shepherd standing guard.,3273
+153,A beagle sniffing around a garden.,3323
+154,A Dalmatian running with a fire truck in the background.,3380
+155,A husky howling at the full moon.,3431
+156,A poodle groomed and ready for a dog show.,3473
+157,A dachshund wearing a hot dog costume.,3517
+158,A Labrador retriever fetching a ball from a lake.,3557
+159,A border collie herding sheep on a farm.,3602
+160,A pug lounging on a couch with a funny expression.,3644
+161,A Chihuahua peeking out of a handbag.,3689
+162,A Shiba Inu with a cherry blossom background.,3723
+163,A Great Dane standing next to a small child.,3773
+164,A Saint Bernard carrying a rescue barrel in the snow.,3814
+165,A French bulldog with sunglasses and a bandana.,3873
+166,"A Cocker Spaniel with long, flowing ears running through a field.",3926
+167,A Boxer playing tug-of-war with a rope toy.,3977
+168,A Rottweiler standing protectively by its owner.,4022
+169,"A Doberman Pinscher in a sleek, modern home.",4070
+170,A Bernese Mountain Dog in an alpine setting.,4123
+171,A Samoyed with its fluffy white fur in the snow.,4162
+172,A Corgi with its short legs and a big smile.,4207
+173,A Whippet running at full speed.,4259
+174,An Old English Sheepdog with its hair covering its eyes.,4306
+175,A Basenji with its distinctive curled tail.,4346
+176,An Australian Shepherd with different colored eyes.,4392
+177,"An Afghan Hound with its elegant, long coat.",4433
+178,A Newfoundland dog swimming in the ocean.,4484
+179,A Scottish Terrier with a plaid scarf.,4533
+180,An Alaskan Malamute pulling a sled.,4577
+181,A Vizsla pointing at a bird in a forest.,4630
+182,A Mastiff lounging on a sunny patio.,4681
+183,"A Weimaraner with its sleek, silver coat.",4735
+184,A Basset Hound with its long ears dragging on the ground.,4790
+185,"A Pomeranian with a fluffy, cloud-like fur.",4834
+186,A Tibetan Mastiff in a mountainous region.,4879
+187,A Papillon with its butterfly-like ears.,4919
+188,A Saluki standing elegantly in the desert.,4969
+189,A Rhodesian Ridgeback with its signature back ridge.,4000
+190,An Irish Setter running through tall grass.,4100
+191,A Soft Coated Wheaten Terrier with its wavy fur.,2357
+192,A Shih Tzu with a top knot.,2314
+193,An Airedale Terrier in a countryside setting.,6123
+194,A Bloodhound sniffing a trail.,4122
+195,A Japanese Chin with its distinctive facial markings.,5123
+196,"A Lhasa Apso with its long, flowing hair.",6123
+197,A Cavalier King Charles Spaniel sitting regally.,7123
+198,A Portuguese Water Dog playing in the water.,7132
+199,An American Pit Bull Terrier with a friendly smile.,3888
+200,A Bullmastiff standing proudly with a family.,4888
